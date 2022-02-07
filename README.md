@@ -25,4 +25,4 @@ Puedes revisar como ejemplo el archivo `.env.example` con las propiedades.
 
 ## Créditos
 
-Para cualquier inquietud, contáctame [m@nieva.team](mailto:m@nieva.team) o a mi twitter [@mikenieva](https://twitter.com/mikenieva)
+Para cualquier inquietud, contáctame [ADD](AA) o a mi twitter [ADD](https://twitter.com/ADD)
