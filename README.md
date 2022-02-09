@@ -20,8 +20,13 @@ PORT=
 MONGODB_URI=
 ```
 
+#ESTABLECER LA PALABRA SECRETA PARA LAS COOKIES
+SECRET=
+
 Puedes revisar como ejemplo el archivo `.env.example` con las propiedades.
 
+## Consideraciones 
+- Si el despliegue sucede en un Cloud Environment (a.k.a Heroku), vale la pena revisar tu sección de 'config vars'
 
 ## Créditos
 
